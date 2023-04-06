@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-                                                                  
+![logo]()
                                                                   
 # 💫 About Me:
 🔭 I’m just a small NUMBER = To Infinity .<br>🤝 Trying to do the JOB <br>🌱  learning SOMETHING .......<br>⚡ Fun fact :   O-X-Y  O is the first letter in my sec name and Y is the first L in my first name  , a  CODON  is : a  sequence of three consecutive nucleotides in a DNA or RNA molecule that codes for a specific amino acid <br>well  let's just mix that and get my unique DNA  Name X codon :  O-X-Y-CODON , welcome that's my Nickname..
