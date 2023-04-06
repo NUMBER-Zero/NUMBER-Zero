@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img url="![image](https://user-images.githubusercontent.com/98214458/230511858-8fffcb11-f9ba-49ba-bff9-b455494a9548.png)
-">
+
                                                                   
                                                                   
 # 💫 About Me:
