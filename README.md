@@ -1,13 +1,17 @@
-### Hi there 👋
+### Welcome 👋
+ <h3 > <img src="https://github.com/NUMBER-Zero/NUMBER-Zero/blob/main/Oxycodon-hacker-Me.png" data-canonical-src="https://github.com/NUMBER-Zero/NUMBER-Zero/blob/main/Oxycodon-hacker-Me.png" align='left' width="500" height="500" /> <span align='center'>  Hey i'm OXYCODON </span> </h3>
 
-![logo](https://github.com/NUMBER-Zero/NUMBER-Zero/blob/main/w3rkthis_cute_owl_rainbow_color_ascii_art_high_quality_8b501841-5917-476d-80d2-5f1e1143e23a.png)
                                                                   
 # 💫 About Me:
-🔭 I’m just a small NUMBER = To Infinity .<br>🤝 Trying to do the JOB <br>🌱  learning SOMETHING .......<br>⚡ Fun fact :   O-X-Y  O is the first letter in my sec name and Y is the first L in my first name  , a  CODON  is : a  sequence of three consecutive nucleotides in a DNA or RNA molecule that codes for a specific amino acid <br>well  let's just mix that and get my unique DNA  Name X codon :  O-X-Y-CODON , welcome that's my Nickname..
+🔭 I’m just a small NUMBER = To Infinity .<br>🤝 Trying to do the JOB <br>🌱  learning SOMETHING .......<br>⚡ Fun fact :   O-X-Y  O is the first letter in my sec name and Y is the first L in my first name  , a  CODON  is : a  sequence of three consecutive nucleotides in a DNA or RNA molecule that codes for a specific amino acid well  let's just mix that and get my unique DNA  Name X codon :  O-X-Y-CODON , welcome that's my Nickname..
 
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NUMBER-zero) 
+Twitter : (https://twitter.com/NUMBER-zero)
+<br>
+<br>
+<br>
+<br><br>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) 
