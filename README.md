@@ -10,10 +10,10 @@
 
                                                                   
 # 💫 About Me:
-🔭 I’m just a small NUMBER = To Infinity .<br>🤝 Trying to do the JOB <br>🌱  learning SOMETHING .......<br>⚡ Fun fact :   O-X-Y  O is the first letter in my sec name and Y is the first L in my first name  , a  CODON  is : a  sequence of three consecutive nucleotides in a DNA or RNA molecule that codes for a specific amino acid well  let's just mix that and get my unique DNA  Name X codon :  O-X-Y-CODON , welcome that's my Nickname..
+ - To Infinity .<br>🤝- Hack > __<me :) <br>🌱  SOMETHING .......<br>⚡ Whoam---I ::   O-X-Y  O refers to my sec name and Y to my first name  , a  CODON  is : a  sequence of three consecutive nucleotides in a DNA or RNA molecule that codes for a specific amino acid  , well ! mixing that you get (my unique DNA  Name) X (codon) :  O-X-Y-CODON , that's my Nickname.. (:
 
 
-## 🌐 Socials:
+ ## 🌐 Socials:
 Twitter : (https://twitter.com/NUMBER-zero) <br> <br>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NUMBER-Zero)
 
