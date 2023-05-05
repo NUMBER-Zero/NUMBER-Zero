@@ -10,7 +10,7 @@
 
                                                                   
 # 💫 About Me:
- - To Infinity .<br>🤝- Hack > __<me :) <br>🌱  SOMETHING .......<br>⚡ Whoam---I ::   O-X-Y  O refers to my sec name and Y to my first name  , a  CODON  is : a  sequence of three consecutive nucleotides in a DNA or RNA molecule that codes for a specific amino acid  , well ! mixing that you get (my unique DNA  Name) X (codon) :  O-X-Y-CODON , that's my Nickname.. (:
+ - HI  .<br>🤝- I social-engineer minds , love to hack brains and feelings , like to code and get some fun :)  dramatic with nature <br>🌱 since you are here  : check Rudy Kipling : 0021X-32100  .......<br>⚡ Base :   O-X-Y :  - O refers to my sec name and Y to my first name  , a  CODON  is : a  sequence of three consecutive nucleotides in a DNA or RNA molecule that codes for a specific amino acid  , well ! mixing that you get (my unique DNA  Name) X (codon) :  O-X-Y-CODON , that's my Nickname.. (: 
 
 
  ## 🌐 Socials:
