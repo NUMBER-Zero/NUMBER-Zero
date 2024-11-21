@@ -8,10 +8,7 @@
 
  <h3 > <img src="https://github.com/NUMBER-Zero/NUMBER-Zero/blob/main/Oxycodon-hacker-Me.png" data-canonical-src="https://github.com/NUMBER-Zero/NUMBER-Zero/blob/main/Oxycodon-hacker-Me.png" align='left' width="500" height="500" /> <span align='center' style="color: green">  Hello i'm  " O X Y C O D O N " &#x1F49A; </span> </h3>
 
-                                                                  
-# 💫 About Me:
- - HI  .<br>🤝- I social-engineer minds , love to hack feelings , like to code and get some fun :)   <br>🌱 <br>⚡ Base :   O-X-Y :  OXY . A  CODON  is : a  sequence of three consecutive nucleotides in a DNA or RNA molecule that codes for a specific amino acid  , well ! mixing that you get me :  O-X-Y-CODON
-
+    
 
  ## 🌐 Socials:
 Twitter : (https://twitter.com/NUMBER-zero) <br> <br>
